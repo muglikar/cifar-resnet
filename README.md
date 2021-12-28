@@ -1,4 +1,4 @@
-# cifar-restnet
+# cifar-resnet
 Cifar classification using ResNet
 
 Custom ResNet architecture for CIFAR10.
